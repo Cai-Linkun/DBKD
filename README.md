@@ -27,8 +27,8 @@
 * [HyperCore](https://aclanthology.org/2020.acl-main.282/)
 * [MultiResCNN](https://github.com/foxlf823/Multi-Filter-Residual-Convolutional-Neural-Network)
 * [MSATT-KG](https://dl.acm.org/doi/abs/10.1145/3357384.3357897)
-* [JAN](https://ieeexplore.ieee.org/document/9822203)
-
+* [JAN](https://www.sciencedirect.com/science/article/pii/S0950705123008638)
+* [HGCN-CL](https://www.sciencedirect.com/science/article/pii/S0010482523012623)
 ## Label knowledge acquirement
 We crawled the ICD description and hierarchy information from [ICD9 website](http://www.icd9data.com/). After adding the parent label, the number of labels in MIMIC-III-full for training, development, and testing are 10,051, 3,928, 5,111, respectively.
 
